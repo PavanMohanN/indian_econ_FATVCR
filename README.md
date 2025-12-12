@@ -22,6 +22,7 @@ Outputs:
 - summary tables in CSV
 
 See code docstrings for per-script options.
+$ ./tree-md .
 
 fa_tvcr_nowcast/                <- repo root
 ├─ README.md
