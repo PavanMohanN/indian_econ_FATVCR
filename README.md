@@ -22,3 +22,18 @@ Outputs:
 - summary tables in CSV
 
 See code docstrings for per-script options.
+
+fa_tvcr_nowcast/                <- repo root
+├─ README.md
+├─ requirements.txt
+├─ run_all.sh                   <- convenience runner
+├─ src/
+│  ├─ __init__.py
+│  ├─ data_fetch.py            # download MoSPI & indicator files (placeholders)
+│  ├─ preprocess.py           # construct quarter index, compute q/q, align panel
+│  ├─ factor_extract.py       # PCA for high-frequency panel -> factor series
+│  ├─ models.py               # OLS & FA-TVCR (Kalman MLEModel subclass)
+│  ├─ forecast_eval.py        # rolling forecasts, RMSE/MAE, DM test, bootstraps
+│  ├─ diagnostics.py          # residual tests, VIF, ACF plots
+│  └─ plots.py                # figure routines to reproduce paper figures
+
