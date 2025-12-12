@@ -23,13 +23,11 @@ Outputs:
 
 See code docstrings for per-script options.
 
-Project layout 
-fa_tvcr_nowcast/                <- repo root
+```text
+indian_econ_FATVCR/                <- repo root
 ├─ README.md
 ├─ requirements.txt
 ├─ run_all.sh                   <- convenience runner
-├─ data/
-│  └─ (place CSV/Excel files here or let data_fetch.py download)
 ├─ src/
 │  ├─ __init__.py
 │  ├─ data_fetch.py            # download MoSPI & indicator files (placeholders)
@@ -39,11 +37,7 @@ fa_tvcr_nowcast/                <- repo root
 │  ├─ forecast_eval.py        # rolling forecasts, RMSE/MAE, DM test, bootstraps
 │  ├─ diagnostics.py          # residual tests, VIF, ACF plots
 │  └─ plots.py                # figure routines to reproduce paper figures
-└─ examples/
-   └─ example_run.ipynb       # notebook example for quick reproduction
 
-How](https://github.com/PavanMohanN/indian_econ_FATVCR/tree/main/src/
-)
 
 `Created in May 2024`
 
