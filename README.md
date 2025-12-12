@@ -38,3 +38,14 @@ fa_tvcr_nowcast/                <- repo root
 │  ├─ diagnostics.py          # residual tests, VIF, ACF plots
 │  └─ plots.py                # figure routines to reproduce paper figures
 
+`Created in May 2024`
+
+`File: complete_model.py`
+
+`@author: Pavan Mohan Neelamraju`
+
+`Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com
+
+**Personal Website 🔴🔵**: [https://pavanmohan.netlify.app/](https://pavanmohan.netlify.app/)  
