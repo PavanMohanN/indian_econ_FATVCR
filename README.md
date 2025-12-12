@@ -23,8 +23,7 @@ Outputs:
 
 See code docstrings for per-script options.
 
-```text
-indian_econ_FATVCR/                <- repo root
+indian_econ_FATVCR/
 ├─ README.md
 ├─ requirements.txt
 ├─ run_all.sh                   <- convenience runner
@@ -38,16 +37,17 @@ indian_econ_FATVCR/                <- repo root
 │  ├─ diagnostics.py          # residual tests, VIF, ACF plots
 │  └─ plots.py                # figure routines to reproduce paper figures
 
-<br>
+---
 
-`Created in Jul 2024`
+*Created in Jul 2024*
 
-`File: Mapping2Output.ipynb`
+*File: Mapping2Output.ipynb*
 
-`@author: Pavan Mohan Neelamraju`
+*@author: Pavan Mohan Neelamraju*
 
-`Affiliation: Indian Institute of Technology Madras`
+*Affiliation: Indian Institute of Technology Madras*
 
 **Email**: npavanmohan3@gmail.com
 
-**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
+**Personal Website 🔴🔵**: [pavanmohan.netlify.app](https://pavanmohan.netlify.app/)
+
