@@ -42,11 +42,9 @@ indian_econ_FATVCR/
 
 ---
 
-*Created in Jul 2024*
+*Created in Dec 2025*
 
-*File: Mapping2Output.ipynb*
-
-*@author: Pavan Mohan Neelamraju*
+*@author: Pavan Mohan Neelamraju and Akshay Pratap Singh*
 
 *Affiliation: Indian Institute of Technology Madras*
 
