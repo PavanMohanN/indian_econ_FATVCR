@@ -23,6 +23,7 @@ Outputs:
 
 See code docstrings for per-script options.
 
+```
 indian_econ_FATVCR/
 ├─ README.md
 ├─ requirements.txt
@@ -36,6 +37,8 @@ indian_econ_FATVCR/
 │  ├─ forecast_eval.py        # rolling forecasts, RMSE/MAE, DM test, bootstraps
 │  ├─ diagnostics.py          # residual tests, VIF, ACF plots
 │  └─ plots.py                # figure routines to reproduce paper figures
+```
+
 
 ---
 
