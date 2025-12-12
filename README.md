@@ -23,7 +23,7 @@ Outputs:
 
 See code docstrings for per-script options.
 
-Project layout (what to upload to GitHub)
+Project layout 
 fa_tvcr_nowcast/                <- repo root
 ├─ README.md
 ├─ requirements.txt
@@ -42,7 +42,8 @@ fa_tvcr_nowcast/                <- repo root
 └─ examples/
    └─ example_run.ipynb       # notebook example for quick reproduction
 
-How
+How](https://github.com/PavanMohanN/indian_econ_FATVCR/tree/main/src/
+)
 
 `Created in May 2024`
 
