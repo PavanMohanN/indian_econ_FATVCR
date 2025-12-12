@@ -38,12 +38,11 @@ indian_econ_FATVCR/                <- repo root
 │  ├─ diagnostics.py          # residual tests, VIF, ACF plots
 │  └─ plots.py                # figure routines to reproduce paper figures
 
+<br>
 
-```text
+`Created in Jul 2024`
 
-`Created in May 2024`
-
-`File: complete_model.py`
+`File: Mapping2Output.ipynb`
 
 `@author: Pavan Mohan Neelamraju`
 
@@ -51,4 +50,4 @@ indian_econ_FATVCR/                <- repo root
 
 **Email**: npavanmohan3@gmail.com
 
-**Personal Website 🔴🔵**: [https://pavanmohan.netlify.app/](https://pavanmohan.netlify.app/)  
+**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
